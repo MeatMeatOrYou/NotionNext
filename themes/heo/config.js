@@ -59,7 +59,7 @@ const CONFIG = {
     },
     {
       title_1: 'FinalCutPro',
-      img_1: '/images/heo/mang_new1',
+      img_1: '/images/heo/mang_new1.gif',
       color_1: '#ffffff',
       title_2: 'Python',
       img_2: '/images/heo/cooky.gif',
