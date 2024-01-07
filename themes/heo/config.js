@@ -99,7 +99,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: False, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '推特',
   HEO_SOCIAL_CARD_TITLE_2: 'Twitter',
   HEO_SOCIAL_CARD_TITLE_3: 'Twitter',
